@@ -1,0 +1,7 @@
+{
+  "name": "热踪",
+  "description": "一款时尚的 AI 驱动食物识别与热量追踪应用，使用 Gemini 智能识别餐食并监控每日摄入。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
